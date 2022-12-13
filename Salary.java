@@ -12,7 +12,7 @@ public class Salary {
             System.out.println(ac);
         } else {
             System.out.println(ac);
-            System.out.println("User is not Eligibile for this Scheme");
+            System.out.println("User is not Eligible for this Scheme");
         }
     }
 }
@@ -34,7 +34,7 @@ public class Salary {
             System.out.println(ac);
         } else {
             System.out.println(ac);
-            System.out.println("User is not Eligibile for this Scheme");
+            System.out.println("User is not Eligible for this Scheme");
         }
     }
 }
@@ -56,7 +56,7 @@ public class Salary {
             System.out.println(ac);
         } else {
             System.out.println(ac);
-            System.out.println("User is not Eligibile for this Scheme");
+            System.out.println("User is not Eligible for this Scheme");
         }
     }
 }
@@ -64,4 +64,4 @@ public class Salary {
 
 Output:-
     500
-    User is not Eligibile for this Scheme
+    User is not Eligible for this Scheme
